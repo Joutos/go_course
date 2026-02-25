@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 // Calcula o n-ésimo termo da sequência de Fibonacci.
 //
