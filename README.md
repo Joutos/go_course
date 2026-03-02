@@ -123,12 +123,3 @@ go test ./...
 ## 🎯 Progresso
 
 Este repositório está em constante atualização conforme avanço no curso e aprofundo meus estudos na linguagem.
-
----
-
-## 👨‍💻 Autor
-
-João Paulo Leão
-Estudante de Go | Backend | Sistemas
-
----
