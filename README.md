@@ -1,5 +1,3 @@
----
-
 # 🚀 Aprendendo Go (Golang) do Zero
 
 Repositório com os exercícios, exemplos e experimentos desenvolvidos durante o curso:
