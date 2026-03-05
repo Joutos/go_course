@@ -1,3 +1,4 @@
 # Ignore everything in this directory except for a .gitignore file
 
 .vscode
+.env
